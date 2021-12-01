@@ -1,5 +1,5 @@
 {
-    "name": "queenamdi-public",
+    "name": "queen-DY-public",
     "version": "1.0.5",
     "description": "NPM Package for Queen Amdi Public version.",
     "main": "main/index.js",
@@ -13,7 +13,7 @@
       "type": "git",
       "url": ""
     },
-    "author": "BlackAmda",
+    "author": "DeesaraY",
     "license": "GPL-3.0",
     "dependencies": {
         "@octokit/core": "3.5.1",
